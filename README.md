@@ -18,9 +18,9 @@
 ![Pansoul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pansoul1&show_icons=true&count_private=true&hide=prs&theme=radical)  
 
 ## 📣 联系我
-- 📧 **Email**: pansoul@example.com  
+- 📧 **Email**: pxx419937@egmail.com  
 - 🔗 **博客**: [Pansoul's Notes](https://pansoul.site)  
-- 💬 **QQ**: 你的QQ号（如果适用）  
+- 💬 **QQ**: 1634195880 
 
 如果你对我的项目感兴趣，欢迎 **Star✨**，一起学习交流！🚀  
 
